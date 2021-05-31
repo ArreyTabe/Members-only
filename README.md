@@ -63,5 +63,12 @@ Happy Posting!!
 :handshake: Contributing
 
 Contributions, issues, and feature requests are welcome!
+
 Feel free to check the [issues](https://github.com/ArreyTabe/Members-only/issues) page
 
+# Show your support
+Give a :star: if you like this project!
+
+## 📝 License
+
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
