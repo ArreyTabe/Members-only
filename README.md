@@ -27,7 +27,7 @@ To get the App up and running on your local environment, follow the steps below:
   - Ruby on Rails
 Install all the above in your machine
 
- # Setup
+ ## Setup
 Clone the repository from github to your local computer by following these steps:
 - Go the main page of the [members_only](https://github.com/ArreyTabe/Members-only) repository
 - Above the listed files, click the  Code drop down button (green) button
@@ -38,23 +38,30 @@ Clone the repository from github to your local computer by following these steps
 - Open your Terminal
 - Make sure your current working directory is the directory where you want the cloned repo to reside
 - Enter one of the git clone commands listed above
-- 
+- Press Enter to create your local clone
+- Open a new terminal tab and launch the rails server by typing Rails server and enter
+- Go to your bowser and open http://localhost:3000/
+- Feel free to sign up or sign in and start posting.
+
+Happy Posting!!
+
+# Installation
+- Install any text editor to view the code on your local machine.
+- Install Git.
+- Install ruby
+- Install ruby on rails
+
+## Author
+
+👤 **Arrey Tabe**
+
+- Github: [ArreyTabe](https://github.com/ArreyTabe)
+- Twitter: [@tabe_arrey](https://twitter.com/tabe_arrey)
+- LinkedIn: [Arrey Affuembey](https://www.linkedin.com/in/arreytabeaffuembey/)
 
 
-* Ruby version
+:handshake: Contributing
 
-* System dependencies
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues](https://github.com/ArreyTabe/Members-only/issues) page
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
